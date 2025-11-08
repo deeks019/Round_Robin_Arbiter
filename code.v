@@ -9,7 +9,7 @@ parameter S0=3'b001;
 parameter S1=3'b010;
 parameter S2=3'b011;
 parameter S3=3'b100;
-always @ (posedge clk, negedge rst) begin
+always @ (posedge clk or negedge rst) begin
 if(!rst)
 present_state<=S_start;
 else
