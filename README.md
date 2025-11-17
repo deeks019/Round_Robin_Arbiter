@@ -17,7 +17,7 @@ TABLE OF CONTENTS:
 4) Output<br>
    [Console Output](output/console.jpg)<br>
    [State Diagram](state%20diagram.png)<br>
-5) Waveforms
+5) Waveforms<br>
    [Waveform 1](waveforms/image1.jpg)<br>
    [Waveform 2](waveforms/image2.jpg)<br>
 
