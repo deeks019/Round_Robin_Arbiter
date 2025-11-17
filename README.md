@@ -9,7 +9,7 @@ TABLE OF CONTENTS:
     [Layout 5](Floorplanning%20layout/layout5.jpg)<br>
     [Layout 6](Floorplanning%20layout/layout6.jpg)<br>
     [Layout 7](Floorplanning%20layout/layout7.jpg)<br>
-2) [Input-Output Layout](input-output%20layout/image.jpg)<br>
+2) Input Output Layout <br> [Input-Output Layout](input-output%20layout/image.jpg)<br>
 4) Netlist<br>
    [Netlist 1](Netlist/netlist1.jpg)<br>
    [Netlist 2](Netlist/netlist2.jpg)<br>
