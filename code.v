@@ -60,7 +60,7 @@ begin
     end
     else
     begin
-        next_state=S_start;
+        next_state=S0;
     end
 end
 S1:
@@ -83,7 +83,7 @@ begin
     end
     else 
     begin
-        next_state=S_start;
+        next_state=S1;
     end
 end 
 S2:
@@ -106,7 +106,7 @@ begin
     end
     else 
     begin
-        next_state=S_start;
+        next_state=S2;
     end
 end
 S3:
@@ -129,7 +129,7 @@ if(req[0])
     end
     else
     begin
-        next_state=S_start;
+        next_state=S3;
     end
 end
 endcase
